@@ -40,8 +40,8 @@ Frontend → Backend → Database
 
 ## 👥 Team
 
-* Backend: Ranga
-* Frontend: Chandana
+* Backend: K.Ranga Prem
+* Frontend: K.Sri Chandana
 
 ## 💡 Use Cases
 
